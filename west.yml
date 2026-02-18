@@ -19,7 +19,7 @@ manifest:
     west-commands: scripts/west_commands.yml
     import:
     - submanifests/base.yml
-    - submanifests/devices/Wireless.yml
+    - submanifests/devices/
     - submanifests/middleware/
     - submanifests/rtos/
     - submanifests/internal.yml
